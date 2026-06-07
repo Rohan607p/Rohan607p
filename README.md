@@ -19,19 +19,20 @@
 
 ## 🧠 About me
 
-```python
-rohan = {
-    "name"        : "Rohan Patil",
-    "degree"      : "B.E. Computer Engineering (AI & ML)",
-    "college"     : "Smt. Indira Gandhi College of Engineering, Ghansoli",
-    "cgpa"        : 8.00,
-    "batch"       : "2022 – 2026",
-    "experience"  : ["Data Science Intern @ Prodigy InfoTech"],
-    "interests"   : ["LLM Agents", "RAG Systems", "Data Science", "NLP"],
-    "currently"   : "Building AI-powered agentic workflows with LangGraph",
-    "goal"        : "To build intelligent systems that solve real-world problems"
-}
-```
+Hi! I'm **Rohan Patil**, a final-year B.E. Computer Engineering student specialising in **AI & ML** at Smt. Indira Gandhi College of Engineering, Ghansoli (CGPA: 8.00/10).
+
+I am passionate about building **intelligent, agentic systems** that solve real-world problems. My core interest lies at the intersection of **Large Language Models, RAG pipelines, and multi-agent orchestration** — turning research-level AI concepts into working, deployable systems.
+
+Over the past year I have:
+- 🔬 Interned as a **Data Science Intern at Prodigy InfoTech** — working on EDA, ML, NLP and geospatial data
+- 🤖 Built a **NotebookLM-style AI assistant** using LangGraph, Groq, RAG and AstraDB
+- 🛡️ Developed an **AI-driven multimodal scam detection system** achieving 92% classification accuracy
+- 🧠 Designed a **brain tumor detection system** using Orthogonal Gamma Distribution and MLP
+- 📜 Certified in **Generative AI with LLMs** by AWS & Deeplearning.ai and **Google Cloud Gen AI**
+
+I believe great AI engineers don't just know the tools — they understand **why** each piece of the system works. That mindset drives everything I build.
+
+> 💬 *"Building intelligent systems, one commit at a time."*
 
 ---
 
@@ -136,29 +137,6 @@ ML-based brain tumor detection using Orthogonal Gamma Distribution for feature e
 
 ---
 
-## 📊 GitHub stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rohan607p&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohan607p&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan607p&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-
-</div>
-
----
-
-## 🏆 GitHub trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rohan607p&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
-
-</div>
-
----
-
 ## 📜 Certifications
 
 | Certificate | Issuer | Year |
@@ -175,19 +153,7 @@ ML-based brain tumor detection using Orthogonal Gamma Distribution for feature e
 
 ---
 
-## 📈 Contribution graph
-
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohan607p&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 "Building intelligent systems, one commit at a time."
 
 **⭐ Star my repos if you find them useful — it motivates me to build more!**
 
