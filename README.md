@@ -19,7 +19,7 @@
 
 ## 🧠 About me
 
-Hi! I'm **Rohan Patil**, a final-year B.E. Computer Engineering student specialising in **AI & ML** at Smt. Indira Gandhi College of Engineering, Ghansoli (CGPA: 8.00/10).
+Hi! I'm **Rohan Patil**, a final-year B.E. Computer Engineer specialising in **AI & ML** at Smt. Indira Gandhi College of Engineering, Ghansoli (CGPA: 8.00/10).
 
 I am passionate about building **intelligent, agentic systems** that solve real-world problems. My core interest lies at the intersection of **Large Language Models, RAG pipelines, and multi-agent orchestration** — turning research-level AI concepts into working, deployable systems.
 
