@@ -1,5 +1,4 @@
-<div align="Center
-  ">
+<div align="Center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=200&section=header&text=Rohan%20Patil&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Data%20Science%20%7C%20GenAI&descAlignY=55&descAlign=50" width="100%"/>
 
